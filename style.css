@@ -32,14 +32,16 @@ body{
 
 #main{
     margin-left: 100px;
-    width: 500px;
+    width: 600px;
 }
 
 #main{
     display: flex;
-    border: 3px solid black;
+    border: 3px solid rgb(0, 0, 0);
     border-radius: 20px;
     padding: 10px;
+    background-image: url(./182428240217.jpg);
+    background-size: cover;
 }
 
 #hr2{
@@ -50,4 +52,10 @@ body{
     width: 70%;
     border: 2px solid black;
     margin-bottom: 50px;
+}
+
+
+#sec{
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
